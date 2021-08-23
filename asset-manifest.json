@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/digitalfactoryui_react/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/digitalfactoryui_react/static/js/main.ee876aee.chunk.js",
-    "main.js.map": "/digitalfactoryui_react/static/js/main.ee876aee.chunk.js.map",
-    "runtime-main.js": "/digitalfactoryui_react/static/js/runtime-main.96797b84.js",
-    "runtime-main.js.map": "/digitalfactoryui_react/static/js/runtime-main.96797b84.js.map",
-    "static/js/2.81e22613.chunk.js": "/digitalfactoryui_react/static/js/2.81e22613.chunk.js",
-    "static/js/2.81e22613.chunk.js.map": "/digitalfactoryui_react/static/js/2.81e22613.chunk.js.map",
-    "static/js/3.7e471c6e.chunk.js": "/digitalfactoryui_react/static/js/3.7e471c6e.chunk.js",
-    "static/js/3.7e471c6e.chunk.js.map": "/digitalfactoryui_react/static/js/3.7e471c6e.chunk.js.map",
+    "main.css": "/digitalfactoryui_react/static/css/main.11e2963d.chunk.css",
+    "main.js": "/digitalfactoryui_react/static/js/main.20df4acb.chunk.js",
+    "main.js.map": "/digitalfactoryui_react/static/js/main.20df4acb.chunk.js.map",
+    "runtime-main.js": "/digitalfactoryui_react/static/js/runtime-main.48499591.js",
+    "runtime-main.js.map": "/digitalfactoryui_react/static/js/runtime-main.48499591.js.map",
+    "static/css/2.4e2c91fd.chunk.css": "/digitalfactoryui_react/static/css/2.4e2c91fd.chunk.css",
+    "static/js/2.9f7959fd.chunk.js": "/digitalfactoryui_react/static/js/2.9f7959fd.chunk.js",
+    "static/js/2.9f7959fd.chunk.js.map": "/digitalfactoryui_react/static/js/2.9f7959fd.chunk.js.map",
+    "static/js/3.175c315f.chunk.js": "/digitalfactoryui_react/static/js/3.175c315f.chunk.js",
+    "static/js/3.175c315f.chunk.js.map": "/digitalfactoryui_react/static/js/3.175c315f.chunk.js.map",
     "index.html": "/digitalfactoryui_react/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/digitalfactoryui_react/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.81e22613.chunk.js.LICENSE.txt": "/digitalfactoryui_react/static/js/2.81e22613.chunk.js.LICENSE.txt"
+    "static/css/2.4e2c91fd.chunk.css.map": "/digitalfactoryui_react/static/css/2.4e2c91fd.chunk.css.map",
+    "static/css/main.11e2963d.chunk.css.map": "/digitalfactoryui_react/static/css/main.11e2963d.chunk.css.map",
+    "static/js/2.9f7959fd.chunk.js.LICENSE.txt": "/digitalfactoryui_react/static/js/2.9f7959fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.96797b84.js",
-    "static/js/2.81e22613.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.ee876aee.chunk.js"
+    "static/js/runtime-main.48499591.js",
+    "static/css/2.4e2c91fd.chunk.css",
+    "static/js/2.9f7959fd.chunk.js",
+    "static/css/main.11e2963d.chunk.css",
+    "static/js/main.20df4acb.chunk.js"
   ]
 }
